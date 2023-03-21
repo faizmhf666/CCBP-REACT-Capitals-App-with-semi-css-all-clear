@@ -1,0 +1,38 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.app-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-container {
+  background-color: #f8fafc;
+  padding: 50px;
+  border-radius: 25px;
+  font-family: 'Roboto';
+}
+.capital-container {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.option {
+  color: #323f4b;
+  font-size: 20px;
+  justify-content: center;
+}
+.drop-down {
+  border-color: #cbd2d9;
+  width: 190px;
+}
+.country {
+  color: #000000;
+  font-size: 20px;
+  font-weight: 600;
+}
